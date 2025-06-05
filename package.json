@@ -1,0 +1,15 @@
+{
+  "name": "module1",
+  "version": "1.0.0",
+  "description": "this is the selfie app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "syril",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^5.1.0",
+    "nedb": "^1.8.0"
+  }
+}
